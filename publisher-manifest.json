@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cafe1361d988c37639cedb5f",
+  "owner": "uxmwvk",
+  "repo": "page-1c5d2ba9d55457f7eeee142a",
+  "title": "锐速三角",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1c5d2ba9d55457f7eeee142a",
+      "a": "锐速三角",
+      "b": "2027最新官网",
+      "entity": "锐速三角",
+      "brand": "锐速三角",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4756611fe05dfc5c9280a03af26f163f27bd3cfb9e7ad53a069b3b3dcfc24667",
+      "content": {
+        "primary_entity": "锐速三角",
+        "keyword1": "锐速三角",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求选套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_DESCRIPTION": "，锐速三角提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 至 20 台设备同时在线。旗舰版支持 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合多设备娱乐与低延迟需求。按年付享优惠，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个角度了解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，覆盖手机与电脑。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路优化",
+          "AI_GUIDE_INTRO": "按需求选服务，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "锐速三角提供多档海外加速套餐，适合从单人日常到团队协作的不同场景。按设备数量与流量需求选择基础版、旗舰版或团队版，再根据客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐适配设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "按年付更划算，续费灵活",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认主要使用设备数量与每月流量需求，再从基础版、旗舰版和团队版中挑选。",
+          "AI_STEP_TEXT_2": "查看各套餐的设备上限、流量额度与线路类型，确认与使用场景匹配。",
+          "AI_STEP_TEXT_3": "根据设备系统选择对应客户端，参照配置文档导入订阅信息并连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "锐速三角加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、月流量 100GB 以内的用户；旗舰版 300GB 流量加 IPLC 专线，适合游戏和流媒体需求；团队版 1000GB 与 20 台设备，适合多人共享或企业环境。",
+          "AI_FAQ_ANSWER_2": "支持 3 台设备同时在线；旗舰版提升到 5 台；团队版最多 20 台，并可按企业需求定制路由，适合办公组网场景。",
+          "AI_FAQ_ANSWER_3": "月付按基础版 ¥15、旗舰版 ¥35、团队版 ¥85 计费；按年付分别为 ¥150、¥350、¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_4": "Windows 推荐 Clash Verge 或 V2rayN；macOS 可用 Clash Verge；Android 用 v2rayNG；iOS 用 Shadowrocket 或 Stash。按订阅链接导入配置后选择节点即可使用。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池，满足日常浏览；旗舰版加入 IPLC 专线，对游戏延迟和流媒体更友好；团队版使用 VIP 专属高带宽节点，并支持定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别适合怎样的使用场景？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付的价格差别有多大？",
+          "AI_FAQ_QUESTION_4": "不同系统该用哪个客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "线路节点在三个套餐中有什么不同？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq98d6zh11enrrgqf0t3b.com",
+    "host": "xn--9kq98d6zh11enrrgqf0t3b.com"
+  },
+  "file_hashes": {
+    "index.html": "76ba00b938b92d53d305184510a9d06b07ceda17dd68e1d473691176a0bd67a2",
+    "sitemap.xml": "f8503ee529249dc946370c723ebd799368c6b6dcf0631e6686cef35b1e076d86",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "333567188a05e581c2c233c45250a81d401701380fb90346c1bc3d7f960fdde4",
+    "robots.txt": "787c8ff8d7dad38e938b73e1e19d3f1bee334349826c551ae4bb5751bcc8d348",
+    "1b764442884e9e6cd65b163bfe2df4a3.txt": "a5666d47b3d4b46ac636c13d32b636e185da5c74398273dd9d6095472ebc8b7f"
+  },
+  "revision": "ffae301696e90fddc9e2b67b453c9562ef36c74bfef3455e8f7a0af2ef4cd55b"
+}
